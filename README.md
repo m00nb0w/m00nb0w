@@ -55,6 +55,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="30" height="30" />
 </p>
 
+<br/>
 ## 📈 GitHub Stats
 
 <p>
@@ -64,7 +65,7 @@
 </a>
 </p>
 
-
+<br/>
 ## 💪 Personal Stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
