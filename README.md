@@ -17,9 +17,9 @@
 
 <br/><br/>[![trophy](https://github-profile-trophy.vercel.app/?username=m00nb0w&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)<br/><br/>
 
-
-
 ## 🔧 What I've been learning and using so far
+
+<img align="right" alt="readme" src="./assets/readme.jpg" width="450" height="450"/>
 
 ### Languages
 <p align="left">
