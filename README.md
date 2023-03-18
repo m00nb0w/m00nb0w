@@ -70,9 +70,9 @@
 
 ## 💪 Personal Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C171%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
 
@@ -103,14 +103,15 @@ Sunday                   756 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Scala                    1 hr 21 mins        ██████████████░░░░░░░░░░░   55.33 % 
-Other                    1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.67 % 
+Scala                    2 hrs 13 mins       ███████████████░░░░░░░░░░   60.64 % 
+Other                    1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   38.96 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,5 +127,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2023 00:49:07 UTC
+ Last Updated on 18/03/2023 00:46:30 UTC
 <!--END_SECTION:waka-->
