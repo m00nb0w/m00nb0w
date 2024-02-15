@@ -103,14 +103,13 @@ Sunday                   757 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████░░░░   84.55 % 
-Protocol Buffer          0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,5 +125,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2024 00:41:08 UTC
+ Last Updated on 15/02/2024 00:41:04 UTC
 <!--END_SECTION:waka-->
