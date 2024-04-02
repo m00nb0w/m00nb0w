@@ -103,15 +103,13 @@ Sunday                   758 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Scala                    1 hr 29 mins        ███████████████████████░░   92.26 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,5 +125,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2024 00:45:40 UTC
+ Last Updated on 02/04/2024 00:42:33 UTC
 <!--END_SECTION:waka-->
