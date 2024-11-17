@@ -70,7 +70,7 @@
 
 ## 💪 Personal Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C650%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C650%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -129,5 +129,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2024 01:00:36 UTC
+ Last Updated on 17/11/2024 01:03:56 UTC
 <!--END_SECTION:waka-->
