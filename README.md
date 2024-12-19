@@ -103,13 +103,14 @@ Sunday                   774 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               45 mins             █████████████████████████   99.23 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -125,5 +126,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2024 01:01:07 UTC
+ Last Updated on 19/12/2024 01:01:49 UTC
 <!--END_SECTION:waka-->
