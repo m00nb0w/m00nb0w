@@ -103,14 +103,13 @@ Sunday                   776 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    7 mins              ████████████████████████░   97.33 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -126,5 +125,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2025 01:01:46 UTC
+ Last Updated on 15/03/2025 01:00:42 UTC
 <!--END_SECTION:waka-->
