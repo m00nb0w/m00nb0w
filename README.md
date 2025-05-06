@@ -103,15 +103,13 @@ Sunday                   758 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     15 mins             ████████████████░░░░░░░░░   64.06 % 
-Scala                    8 mins              █████████░░░░░░░░░░░░░░░░   35.05 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,5 +125,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 01:05:31 UTC
+ Last Updated on 06/05/2025 01:03:00 UTC
 <!--END_SECTION:waka-->
