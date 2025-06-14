@@ -103,13 +103,13 @@ Sunday                   758 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Kotlin                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,5 +125,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2025 01:06:09 UTC
+ Last Updated on 14/06/2025 01:03:16 UTC
 <!--END_SECTION:waka-->
