@@ -70,8 +70,6 @@
 
 ## 💪 Personal Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C671%20hrs%2054%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
@@ -103,13 +101,13 @@ Sunday                   758 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     15 mins             █████████████████████████   100.00 % 
+YAML                     5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,5 +123,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 01:11:45 UTC
+ Last Updated on 31/07/2025 01:11:06 UTC
 <!--END_SECTION:waka-->
